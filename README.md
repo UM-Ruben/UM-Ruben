@@ -18,7 +18,6 @@
 
 - 🎓 Estudiante de **Ingeniería Informática** en la Universidad de Murcia
 - 💡 Me encanta aprender nuevas tecnologías y resolver problemas complejos
-- 📫 Contacto: **[ruben.fernandezg@um.es](mailto:ruben.fernandezg@um.es)**
 
 <br clear="right"/>
 
@@ -53,7 +52,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UM-Ruben&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3DAFE8&line=3DAFE8&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
+---
 
+### 🐍 Contribuciones del Último Año (Snake Game)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/UM-Ruben/UM-Ruben/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
