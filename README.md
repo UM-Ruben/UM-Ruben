@@ -54,7 +54,7 @@
 
 ---
 
-### 🐍 Contribuciones del Último Año (Snake Game)
+### 🐍 Contribuciones del Último Año
 
   <img 
     src="https://raw.githubusercontent.com/UM-Ruben/UM-Ruben/output/github-contribution-grid-snake.svg" 

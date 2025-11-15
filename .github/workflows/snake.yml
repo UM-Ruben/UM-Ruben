@@ -14,6 +14,7 @@ on:
   push:
     branches:
     - main
+    - master
 
 # The sequence of runs in this workflow:
 jobs:
@@ -26,6 +27,12 @@ jobs:
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
+      
+      - name: Install system dependencies for canvas
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev pkg-config
+        shell: bash
     
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
